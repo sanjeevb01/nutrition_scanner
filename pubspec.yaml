@@ -1,0 +1,20 @@
+# This file tracks Flutter package dependencies for your project.
+# See https://flutter.dev/docs/development/packages-and-plugins/using-packages
+
+name: nutrition_scanner
+description: A Flutter app that captures a food image and displays nutritional values quickly and accurately.
+dependency_overrides: {}
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  image_picker: ^1.1.2
+  http: ^1.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

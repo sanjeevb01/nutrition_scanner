@@ -1,0 +1,42 @@
+# This is a generated file; do not edit.
+
+# Add files you want to ignore in your project.
+# For the Flutter project, use:
+#   /build/
+#   /.dart_tool/
+#   /.idea/
+#   /.vscode/
+#   /android/.gradle/
+#   /ios/Pods/
+#   /linux/flutter/ephemeral/
+#   /macos/Pods/
+#   /web/
+#   /.fvm/
+#   /.metaclass
+#   *.iml
+#   *.ipr
+#   *.iws
+#   *.swp
+#   *.swo
+#   *.log
+#   *.tmp
+#   *.bak
+#   *.DS_Store
+#   *.orig
+#   /coverage/
+#
+# For more information, see:
+# https://dart.dev/guides/libraries/private-files
+
+/build/
+/.dart_tool/
+/.idea/
+/.vscode/
+/.fvm/
+/.packages
+/.pub-cache/
+/.pub/
+*.iml
+*.class
+*.log
+dart_tool	
